@@ -13,3 +13,14 @@ This repository contains the code and documentation for a standalone device desi
 - The device connects to a nearby hotspot to access the internet for sending emails.
 - Utilizes an ESP8266 Feather board for connectivity.
 
+The manufactured board is displayed below.
+<p align="center">
+  <img src="Figures/SolderedTop.jpg" alt="Board Top View" width="45%" />
+  <img src="Figures/SolderedBottom.jpg" alt="Board Bottom View" width="45%" />
+</p>
+
+<p align="center">
+  <em>a): Board Top View</em> &emsp; <em>b): Board Bottom View</em>
+</p>
+
+
