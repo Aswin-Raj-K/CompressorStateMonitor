@@ -23,4 +23,7 @@ The manufactured board is displayed below.
   <em>a): Board Top View</em> &emsp; <em>b): Board Bottom View</em>
 </p>
 
+The device in operation connected to the Compressor is displayed below,
+![Compressor State Monitor](Figures/InOperation.jpg)
+
 
