@@ -25,7 +25,7 @@ The manufactured board is displayed below.
 
 The device in operation connected to the Compressor is displayed below,
 <p align="center">
-  <img src="Figures/InOperation.jpg" alt="Compressor State Monitor" width="200" height="200">
+  <img src="Figures/InOperation.jpg" alt="Compressor State Monitor" width="50%" height="50%">
 </p>
 
 
