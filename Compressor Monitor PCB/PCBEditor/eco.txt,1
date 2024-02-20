@@ -1,0 +1,106 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/PCB/Compressor Monitor/PCBEditor/Compressor Monitor.brd         |
+|                                                    Thu Jan 18 15:40:25 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  LED_HWT      pins MOVED FROM this net (to net name listed on right)
+                                 D2.A            -15.330 18.3850
+                                                                         N04308
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 R8.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED_LWF      pins MOVED FROM this net (to net name listed on right)
+                                 D3.A            14.7300 18.3850
+                                                                         N04392
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 R9.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED_RS       pins MOVED FROM this net (to net name listed on right)
+                                 D4.A            14.7300 27.8000
+                                                                         N04516
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 R10.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED_WIFI     pins MOVED FROM this net (to net name listed on right)
+                                 D1.A            -15.330 27.8000
+                                                                         N04451
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 R7.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04308       pins ADDED TO this new net
+                                 R8.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04392       pins ADDED TO this new net
+                                 R9.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04451       pins ADDED TO this new net
+                                 R7.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04516       pins ADDED TO this new net
+                                 R10.2                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/PCB/Compressor Monitor/PCBEditor/Compressor Monitor.brd         |
+|                                                    Thu Jan 18 15:40:25 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R7                  R_RES0805_10K         
+ R8                  R_RES0805_10K         
+ R9                  R_RES0805_10K         
+ R10                 R_RES0805_10K         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/Projects/PCB/Compressor Monitor/PCBEditor/Compressor Monitor.brd         |
+|                                                    Thu Jan 18 15:40:25 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2            7.6200 27.9400 XY             (80,370)
+ C2.2            7.6200 17.7800 XY             (280,370)
+ D1.C           -16.600 27.8000 XY             (750,290)
+ D2.C           -16.600 18.3850 XY             (750,390)
+ D3.C           16.0000 18.3850 XY             (750,480)
+ D4.C           16.0000 27.8000 XY             (390,480)
+ J1.9           16.6200 34.4800 XY             (730,90)
+ R1.2            6.1200 26.9650 XY             (390,90)
+ R2.2            2.2000 26.9650 XY             (450,90)
+ R3.2           -6.4200 26.9650 XY             (390,180)
+ R4.2           -2.5000 26.9650 XY             (450,180)
+ R5.2           -6.4200 18.5450 XY             (390,280)
+ R6.2           -2.5000 18.5450 XY             (450,280)
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           XY             (650,300)
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           XY             (660,400)
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           XY             (670,490)
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R10.2                          XY             (320,490)
+ U1.26           0.0000  0.0000 XY             (130,90)
+ U2.3           -2.5400 22.8600 XY             (130,340)
+|------------------------------------------------------------------------------|
+|       Nets changed          :      12                                        |
+|       Components added      :       4                                        |
+|       Slot property added   :      23                                        |
+|                                                                              |
+|   Total ECO changes reported:      39                                        |
+|------------------------------------------------------------------------------|

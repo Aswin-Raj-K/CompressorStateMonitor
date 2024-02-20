@@ -1,0 +1,56 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : Compressor Monitor.brd                        )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Thu Jan 18 16:03:42 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'D:/Projects/PCB/Compressor Monitor/PCBEditor/Artwork' ...
+
+
+
+     'Compressor Monitor-1-2.drl' created for holes connecting TOP and BOTTOM
+     ------------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.9000    0.0000/  0.0000      PLATED         25
+            2.   1.0200    0.0000/  0.0000      PLATED         28
+            3.   1.2100    0.0000/  0.0000      PLATED          8
+
+     ---- Total holes:                                         61
+
+     ---- Total head travel:              1.06 feet (0.32 meters)
+

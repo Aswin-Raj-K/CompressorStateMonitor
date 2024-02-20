@@ -1,0 +1,27 @@
+\t (00:00:11) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:11)     Journal start - Wed Jan 24 13:23:56 2024
+\t (00:00:11)         Host=ARK User=kaswi Pid=8712 CPUs=20
+\t (00:00:11) CmdLine= D:\Softwares\Orcad\tools\bin\allegro.exe
+\t (00:00:11) 
+   (00:00:11) Loading axlcore.cxt 
+\t (00:00:12) Opening existing design...
+\i (00:00:12) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged LEDRD254W57D500H1070
+\d (00:00:12) Design opened: D:/Projects/PCB/Compressor Monitor/PCBEditor/Libraries/LEDRD254W57D500H1070.dra
+\i (00:00:13) trapsize 2975
+\i (00:00:13) trapsize 3189
+\i (00:00:13) trapsize 2975
+\i (00:00:13) trapsize 1810
+\i (00:00:13) trapsize 2029
+\i (00:00:14) generaledit 
+\i (00:00:17) trapsize 1301
+\i (00:01:22) pick grid -10.7201 2.5396
+\t (00:01:22) last pick:  -10.1600 2.5400
+\i (00:01:55) open 
+\i (00:02:17) fillin "D:/Projects/PCB/Compressor Monitor/PCBEditor/Compressor Monitor.brd"
+\i (00:02:17) cd "D:/Projects/PCB/Compressor Monitor/PCBEditor"
+\t (00:02:17) Opening existing design...
+\i (00:02:18) trapsize 3836
+\i (00:02:18) trapsize 3939
+\i (00:02:18) trapsize 3836
+\i (00:02:18) trapsize 4689
+\t (00:02:18)     Journal end - Wed Jan 24 13:26:03 2024

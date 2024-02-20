@@ -1,0 +1,24 @@
+\t (01:37:30) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (01:37:30)     Journal start - Tue Feb 13 10:15:24 2024
+\t (01:37:30)         Host=ARK User=kaswi Pid=27832 CPUs=20
+\t (01:37:30) CmdLine= D:\Softwares\Orcad\tools\bin\allegro.exe
+\t (01:37:30) 
+\d (01:37:30) Design opened: D:/Projects/PCB/Compressor Monitor/PCBEditor/Compressor Monitor.brd
+\i (01:37:30) generaledit 
+\i (01:37:32) artwork 
+\i (01:37:32) FORM film_control general_parameters 
+\i (01:37:32) setwindow form.film_control
+\i (01:37:32) FORM film_control general_parameters  
+\i (01:37:32) setwindow pcb
+\i (01:37:32) trapsize 5340
+\i (01:37:33) setwindow form.film_control
+\i (01:37:33) FORM film_control film_control  
+\i (01:37:35) FORM film_control filmtree  1_DRILL_AND_CROSS 
+\i (01:37:42) FORM film_control filmtree  12_OUTLINE 
+\i (01:37:47) FORM film_control cancel  
+\i (01:37:47) setwindow pcb
+\i (01:37:47) generaledit 
+\i (01:37:51) opencd 'D:/Projects/PCB/Chip Carrier Board/PCBEditor/CarrierBoard_V2.brd' 
+\t (01:37:51) Opening existing design...
+\i (01:37:51) trapsize 3473
+\t (01:37:51)     Journal end - Tue Feb 13 10:15:45 2024

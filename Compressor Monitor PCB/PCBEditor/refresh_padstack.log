@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : Compressor Monitor.brd                        )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Wed Jan 24 13:41:25 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Wed Jan 24 13:41:25 2024				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'D:/Projects/PCB/Compressor Monitor/PCBEditor/Compressor Monitor.brd'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Softwares/Orcad/share/local/pcb/symbols 
+           D:/Softwares/Orcad/share/pcb/pcb_lib/symbols 
+           D:/Softwares/Orcad/share/pcb/allegrolib/symbols 
+           ./Libraries 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           D:/Softwares/Orcad/share/local/pcb/padstacks 
+           D:/Softwares/Orcad/share/pcb/pcb_lib/symbols 
+           D:/Softwares/Orcad/share/pcb/allegrolib/symbols 
+           ./Libraries 
+
+
+------ Pad Stack Refresh Messages ------
+
+'L717DFB25P1AON_PIN'  pad stack refresh starting.
+
+     'L717DFB25P1AON_PIN'  pad stack refreshed successfully.
+     
+'VIA'  pad stack refresh starting.
+
+     'VIA'  pad stack refreshed successfully.
+     
+'T_N121_181_M181'  pad stack refresh starting.
+
+     WARNING(SPMHGE-126): Cannot load padstack: 'T_N121_181_M181'.
+     
+'T_Q121_181_M181'  pad stack refresh starting.
+
+     WARNING(SPMHGE-126): Cannot load padstack: 'T_Q121_181_M181'.
+     
+'TM_AXIAL_LLB_PAD2'  pad stack refresh starting.
+
+     'TM_AXIAL_LLB_PAD2'  pad stack refreshed successfully.
+     
+'T_Q102_137_M137'  pad stack refresh starting.
+
+     WARNING(SPMHGE-126): Cannot load padstack: 'T_Q102_137_M137'.
+     
+'T_N102_137_M137'  pad stack refresh starting.
+
+     WARNING(SPMHGE-126): Cannot load padstack: 'T_N102_137_M137'.
+     
+'R10391340000019A'  pad stack refresh starting.
+
+     'R10391340000019A'  pad stack refreshed successfully.
+     
+'R142133900000210A'  pad stack refresh starting.
+
+     'R142133900000210A'  pad stack refreshed successfully.
+     
+'PAD60CIR36D'  pad stack refresh starting.
+
+     'PAD60CIR36D'  pad stack refreshed successfully.
+     
+'S_R147T102M147_102P147_102'  pad stack refresh starting.
+
+     WARNING(SPMHGE-126): Cannot load padstack: 'S_R147T102M147_102P147_102'.
+     
+'S_R92T142M92_142P92_142'  pad stack refresh starting.
+
+     WARNING(SPMHGE-126): Cannot load padstack: 'S_R92T142M92_142P92_142'.
+     
+WARNING(SPMHNI-286): Completed refreshing all pad stacks successfully. Warnings detected.

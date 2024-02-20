@@ -1,0 +1,9 @@
+\t (00:00:00) padstack_editor 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Jan 19 22:38:50 2024
+\t (00:00:00)         Host=ARK User=kaswi Pid=41060 CPUs=20
+\t (00:00:00) CmdLine= padstack_editor -mpssession kaswi -file C:/Users/kaswi/AppData/Local/Temp/#Taaaaan32624.tmp -pname T_Q121_181_M181 -data C:/Users/kaswi/AppData/Local/Temp/#Taaaaaq32624.tmp
+\t (00:00:00) 
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:04) QtSignal MainWindow Exit triggered
+\t (00:00:04)     Journal end - Fri Jan 19 22:38:54 2024

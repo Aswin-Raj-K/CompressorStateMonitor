@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LEDRD254W57D500H1070.dra                      )
+(    Software Version : 17.4S037                                      )
+(    Date/Time        : Mon Jan 15 15:55:58 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/Projects/PCB/Compressor Monitor/PCBEditor/Libraries
+    Name      = ledrd254w57d500h1070.psm
+    User      = DELL
+    Machine   = ASWIN-RAJ-K
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

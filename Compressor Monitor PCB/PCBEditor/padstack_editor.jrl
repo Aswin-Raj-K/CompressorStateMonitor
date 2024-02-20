@@ -1,0 +1,46 @@
+\t (00:00:00) padstack_editor 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Jan 24 13:42:11 2024
+\t (00:00:00)         Host=ARK User=kaswi Pid=22680 CPUs=20
+\t (00:00:00) CmdLine= padstack_editor -mpssession kaswi -file C:/Users/kaswi/AppData/Local/Temp/#Taaaakt00992.tmp -pname L717DFB25P1AON_PIN -data C:/Users/kaswi/AppData/Local/Temp/#Taaaakw00992.tmp
+\t (00:00:00) 
+\d (00:00:10) QtSignal GuidedDesignLayersTab PadDiameter editingFinished "1.3000"
+\d (00:00:10) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
+\d (00:00:10) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Regular Pad" 1 2
+\d (00:00:10) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Regular Pad"
+\d (00:00:10) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:00:10) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:10) QtSignal 1
+\d (00:00:10) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 67 67108864 false 1 +
+\d (00:00:10) QtSignal ""
+\d (00:00:11) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
+\d (00:00:11) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Regular Pad" 1 2
+\d (00:00:11) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:11) QtSignal 1
+\d (00:00:11) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 86 67108864 false 1 +
+\d (00:00:11) QtSignal ""
+\d (00:00:11) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:00:11) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Regular Pad" 2 2
+\d (00:00:11) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:11) QtSignal 1
+\d (00:00:11) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 86 67108864 false 1 +
+\d (00:00:11) QtSignal ""
+\d (00:00:12) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:13) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 "Regular Pad" 0 1
+\d (00:00:16) QtSignal GuidedMaskLayersTab PadDiameter editingFinished "1.4000"
+\d (00:00:16) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
+\d (00:00:16) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 "Regular Pad" 1 1
+\d (00:00:17) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:00:17) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:17) QtSignal 1
+\d (00:00:17) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 0 "Regular Pad"
+\d (00:00:17) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 "Regular Pad" 0 1
+\d (00:00:18) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:18) QtSignal 1
+\d (00:00:18) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 67 67108864 false 1 ""
+\d (00:00:18) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
+\d (00:00:18) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 "Regular Pad" 1 1
+\d (00:00:19) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:19) QtSignal 1
+\d (00:00:19) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 86 67108864 false 1 ""
+\d (00:00:21) QtSignal MainWindow UpdateToDesignExit triggered
+\t (00:00:21)     Journal end - Wed Jan 24 13:42:32 2024

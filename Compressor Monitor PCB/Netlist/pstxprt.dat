@@ -1,0 +1,219 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 23.1.0 d001Feb-19-2024 at 20:13:58 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='COMPRESSOR MONITOR';
+ POST_TIME='Sep 29 2023 23:54:04';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAP0805_0.33U':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS2016@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins2016@analog.\c.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins2016@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,370)',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAP0805_0.1U':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS2032@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins2032@analog.\c.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins2032@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(280,370)',
+ SECTION='';
+
+PART_NAME
+ D1 'L08R5000Q1_LEDRD254W57D500H1070_L08R5000Q1':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS1203@LIBRARY1.L08R5000Q1.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins1203@library1.\l08r5000q1.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins1203@library1.\l08r5000q1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,290)',
+ SECTION='';
+
+PART_NAME
+ D2 'L08R5000Q1_LEDRD254W57D500H1070_L08R5000Q1':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS2506@LIBRARY1.L08R5000Q1.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins2506@library1.\l08r5000q1.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins2506@library1.\l08r5000q1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,390)',
+ SECTION='';
+
+PART_NAME
+ D3 'L08R5000Q1_LEDRD254W57D500H1070_L08R5000Q1':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS2595@LIBRARY1.L08R5000Q1.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins2595@library1.\l08r5000q1.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins2595@library1.\l08r5000q1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,480)',
+ SECTION='';
+
+PART_NAME
+ D4 'L08R5000Q1_LEDRD254W57D500H1070_L08R5000Q1':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS2686@LIBRARY1.L08R5000Q1.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins2686@library1.\l08r5000q1.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins2686@library1.\l08r5000q1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,480)',
+ SECTION='';
+
+PART_NAME
+ J1 'L717DFB25P1AON_L717DFB25P1AON_L717DFB25P1AON':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS1349@LIBRARY1.L717DFB25P1AON.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins1349@library1.\l717dfb25p1aon.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins1349@library1.\l717dfb25p1aon.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(730,90)',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES0805_10K':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS208@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins208@analog.\r.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins208@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,90)',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RES0805_10K':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS4496@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins4496@analog.\r.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins4496@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,490)',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES0805_100K':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS224@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins224@analog.\r.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins224@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,90)',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES0805_10K':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS437@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins437@analog.\r.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins437@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,180)',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES0805_100K':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS453@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins453@analog.\r.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins453@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,180)',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES0805_10K':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS545@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins545@analog.\r.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins545@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,280)',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES0805_100K':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS561@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins561@analog.\r.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins561@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,280)',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES0805_10K':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS4431@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins4431@analog.\r.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins4431@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(700,300)',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES0805_10K':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS4288@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins4288@analog.\r.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins4288@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(710,400)',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES0805_10K':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS4372@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins4372@analog.\r.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins4372@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(720,490)',
+ SECTION='';
+
+PART_NAME
+ U1 'ESP8266_ESP8266_ESP8266':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS135@LIBRARY1.ESP8266.NORMAL(CHIPS)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins135@library1.\esp8266.normal\(chips)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins135@library1.\esp8266.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(130,90)',
+ SECTION='';
+
+PART_NAME
+ U2 'UA7805CKTTRG3_KTT0003A-MFG_UA7805KTT':;
+
+SECTION_NUMBER 1
+ '@COMPRESSOR MONITOR.SCHEMATIC1(SCH_1):INS656@LIBRARY1.UA7805CKTTRG3.NORMAL(SCH_1)':
+ C_PATH='@\compressor monitor\.schematic1(sch_1):ins656@library1.\ua7805ckttrg3.normal\(sch_1)',
+ P_PATH='@\compressor monitor\.schematic1(sch_1):page1_ins656@library1.\ua7805ckttrg3.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(130,340)',
+ SECTION='';
+
+END.

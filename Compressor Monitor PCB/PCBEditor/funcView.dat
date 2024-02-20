@@ -1,0 +1,14 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_TERM_IDENT!FUNC_CDS_FSP_INSTANCE_ID!FUNC_CDS_FSP_IS_FPGA!FUNC_CDS_FSP_UID!
+J!E:/Projects/PCB/Compressor Monitor/PCBEditor/Compressor Monitor.brd!Sat Jan 13 21:59:58 2024!-250.0000!-250.0000!250.0000!250.0000!0.0001!millimeters!COMPRESSOR MONITOR!10.400000 mil!2!UP TO DATE!
+S!@\compressor monitor\.schematic1(sch_1):ins2016@analog.\c.normal\(chips)!C_CAP0805_0.33U!C1!.\chipsView.dat!!!!!!F11!!!!!!!
+S!@\compressor monitor\.schematic1(sch_1):ins2032@analog.\c.normal\(chips)!C_CAP0805_0.1U!C2!.\chipsView.dat!!!!!!F10!!!!!!!
+S!@\compressor monitor\.schematic1(sch_1):ins208@analog.\r.normal\(chips)!R_RES0805_10K!R1!.\chipsView.dat!!!!!!F7!!!!!!!
+S!@\compressor monitor\.schematic1(sch_1):ins437@analog.\r.normal\(chips)!R_RES0805_10K!R3!.\chipsView.dat!!!!!!F6!!!!!!!
+S!@\compressor monitor\.schematic1(sch_1):ins545@analog.\r.normal\(chips)!R_RES0805_10K!R5!.\chipsView.dat!!!!!!F5!!!!!!!
+S!@\compressor monitor\.schematic1(sch_1):ins224@analog.\r.normal\(chips)!R_RES0805_100K!R2!.\chipsView.dat!!!!!!F4!!!!!!!
+S!@\compressor monitor\.schematic1(sch_1):ins453@analog.\r.normal\(chips)!R_RES0805_100K!R4!.\chipsView.dat!!!!!!F3!!!!!!!
+S!@\compressor monitor\.schematic1(sch_1):ins561@analog.\r.normal\(chips)!R_RES0805_100K!R6!.\chipsView.dat!!!!!!F2!!!!!!!
+S!@\compressor monitor\.schematic1(sch_1):ins1203@library1.\l08r5000q1.normal\(chips)!L08R5000Q1_LEDRD254W57D500H1070_L08R5000Q1!D1!.\chipsView.dat!!!!!!F9!!!!!!!
+S!@\compressor monitor\.schematic1(sch_1):ins1349@library1.\l717dfb25p1aon.normal\(chips)!L717DFB25P1AON_L717DFB25P1AON_L717DFB25P1AON!J1!.\chipsView.dat!!!!!!F8!!!!!!!
+S!@\compressor monitor\.schematic1(sch_1):ins135@library1.\esp8266.normal\(chips)!ESP8266_ESP8266_ESP8266!U1!.\chipsView.dat!!!!!!F1!!!!!!!
+S!@\compressor monitor\.schematic1(sch_1):ins656@library1.\ua7805ckttrg3.normal\(sch_1)!UA7805CKTTRG3_KTT0003A-MFG_UA7805KTT!U2!.\chipsView.dat!!!!!!F0!!!!!!!

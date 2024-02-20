@@ -1,0 +1,111 @@
+\t (00:00:02) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Feb 19 20:14:21 2024
+\t (00:00:02)         Host=ARK User=kaswi Pid=67712 CPUs=20
+\t (00:00:02) CmdLine= d:\softwares\orcad\tools\bin\allegro.exe D:\Projects\PCB\Compressor Monitor\PCBEditor\Compressor Monitor.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Compressor Monitor"
+\d (00:00:03) Design opened: D:/Projects/PCB/Compressor Monitor/PCBEditor/Compressor Monitor.brd
+\i (00:00:03) trapsize 5466
+\i (00:00:03) trapsize 5637
+\i (00:00:03) trapsize 5466
+\i (00:00:03) trapsize 5340
+\i (00:00:03) trapsize 5340
+\i (00:00:03) generaledit 
+\i (00:00:33) netin 
+\i (00:00:35) setwindow form.niparams
+\i (00:00:35) FORM niparams import  
+\t (00:00:35) Starting Cadence Logic Import...
+\t (00:00:36) Opening existing design...
+\i (00:00:36) setwindow pcb
+\i (00:00:36) trapsize 5340
+\i (00:00:37) generaledit 
+\i (00:00:41) drc update 
+\t (00:00:41) Performing DRC...
+\t (00:00:41) The number of threads for DRC checking is reduced from 20 to the maximum supported (16).
+\t (00:00:41) Multithreaded DRC update (16 threads).
+\t (00:00:41) DRC done; 3 errors detected.
+\i (00:00:41) generaledit 
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in -9.5398 3.1694
+\i (00:00:43) trapsize 2670
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in -9.5398 3.1694
+\i (00:00:43) trapsize 1335
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out -14.3725 12.1406
+\i (00:00:44) trapsize 2670
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in -20.4601 16.0922
+\i (00:00:44) trapsize 1335
+\i (00:00:47) slide 
+\t (00:00:47) Pick element to slide.
+\i (00:00:48) pick grid -14.0788 10.7522
+\t (00:00:48) last pick:  -13.9700 10.7950
+\t (00:00:48) last pick:  -13.9700 10.7522
+\t (00:00:48) Waiting for the destination pick.
+\i (00:00:51) pick grid -18.7513 9.9779
+\t (00:00:51) last pick:  -19.0500 10.1600
+\t (00:00:51) No DRC errors detected.
+\t (00:00:51) Pick another element to slide.
+\i (00:00:53) save 
+\i (00:00:54) fillin yes 
+\i (00:00:54) generaledit 
+\i (00:00:56) drc update 
+\t (00:00:56) Performing DRC...
+\t (00:00:56) The number of threads for DRC checking is reduced from 20 to the maximum supported (16).
+\t (00:00:56) Multithreaded DRC update (16 threads).
+\t (00:00:56) DRC done; 2 errors detected.
+\i (00:00:56) generaledit 
+\i (00:00:59) drc update 
+\t (00:00:59) Performing DRC...
+\t (00:00:59) The number of threads for DRC checking is reduced from 20 to the maximum supported (16).
+\t (00:00:59) Multithreaded DRC update (16 threads).
+\t (00:00:59) DRC done; 2 errors detected.
+\i (00:00:59) generaledit 
+\i (00:01:00) status 
+\i (00:01:00) generaledit 
+\i (00:01:02) setwindow form.status
+\i (00:01:02) FORM status drc_update  
+\t (00:01:02) Running DRC, wait...
+\t (00:01:02) Performing DRC...
+\t (00:01:02) The number of threads for DRC checking is reduced from 20 to the maximum supported (16).
+\t (00:01:02) Multithreaded DRC update (16 threads).
+\t (00:01:02) DRC done; 2 errors detected.
+\t (00:01:02) DRC done.
+\i (00:01:04) FORM status drc_color 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) reports drc 
+\i (00:01:04) generaledit 
+\i (00:01:09) zoom center 
+\t (00:01:09) Pick center for the new display.
+\i (00:01:09) pick 8.2725,17.4500 
+\t (00:01:09) last pick:  8.2725 17.4500
+\i (00:01:09) trapsize 1335
+\i (00:01:12) setwindow text
+\i (00:01:12) close
+\i (00:01:13) setwindow form.status
+\i (00:01:13) FORM status done  
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom out 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom out 1.8779 19.5860
+\i (00:01:14) trapsize 2670
+\i (00:01:14) zoom out 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom out 1.8779 19.5860
+\i (00:01:14) trapsize 5340
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in -23.6473 19.1588
+\i (00:01:15) trapsize 2670
+\i (00:01:16) save 
+\i (00:01:18) fillin yes 
+\i (00:01:18) generaledit 
+\i (00:01:24) exit 
+\t (00:01:24)     Journal end - Mon Feb 19 20:15:43 2024

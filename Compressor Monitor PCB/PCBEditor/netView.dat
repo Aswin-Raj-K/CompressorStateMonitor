@@ -1,0 +1,12 @@
+A!NET_NAME!NET_LOGICAL_PATH!NET_VOLTAGE!
+J!E:/Projects/PCB/Compressor Monitor/PCBEditor/Compressor Monitor.brd!Sat Jan 13 21:59:58 2024!-250.0000!-250.0000!250.0000!250.0000!0.0001!millimeters!COMPRESSOR MONITOR!10.400000 mil!2!UP TO DATE!
+S!DB25_PIN2!@\compressor monitor\.schematic1(sch_1):db25_pin2!!
+S!DB25_PIN8!@\compressor monitor\.schematic1(sch_1):db25_pin8!!
+S!DB25_PIN4!@\compressor monitor\.schematic1(sch_1):db25_pin4!!
+S!LED!@\compressor monitor\.schematic1(sch_1):led!!
+S!24V!@\compressor monitor\.schematic1(sch_1):\24v\!!
+S!5V!@\compressor monitor\.schematic1(sch_1):\5v\!!
+S!GND_POWER!@\compressor monitor\.schematic1(sch_1):gnd_power!!
+S!PIN15!@\compressor monitor\.schematic1(sch_1):pin15!!
+S!PIN12!@\compressor monitor\.schematic1(sch_1):pin12!!
+S!PIN13!@\compressor monitor\.schematic1(sch_1):pin13!!

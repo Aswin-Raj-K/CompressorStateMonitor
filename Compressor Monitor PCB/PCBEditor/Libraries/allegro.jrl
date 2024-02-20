@@ -1,0 +1,162 @@
+\t (00:00:03) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Jan 24 13:32:54 2024
+\t (00:00:03)         Host=ARK User=kaswi Pid=25832 CPUs=20
+\t (00:00:03) CmdLine= d:\softwares\orcad\tools\bin\allegro.exe D:\Projects\PCB\Compressor Monitor\PCBEditor\Libraries\L717DFB25P1AON.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged L717DFB25P1AON
+\d (00:00:06) Design opened: D:/Projects/PCB/Compressor Monitor/PCBEditor/Libraries/L717DFB25P1AON.dra
+\i (00:00:07) trapsize 1494
+\i (00:00:07) trapsize 1548
+\i (00:00:07) trapsize 1494
+\i (00:00:07) trapsize 1119
+\i (00:00:07) trapsize 1453
+\i (00:00:07) generaledit 
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 15.6423 2.6708
+\i (00:00:10) trapsize 2905
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 15.5842 0.9859
+\i (00:00:10) trapsize 5695
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 19.0205 1.4806
+\i (00:00:11) trapsize 2847
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 14.6925 -2.7905
+\i (00:00:12) trapsize 1424
+\i (00:00:13) roam start
+\i (00:00:13) roam y 16
+\i (00:00:13) roam y 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam y 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 32
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 16
+\i (00:00:13) roam x 32
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -16
+\i (00:00:14) roam x -16
+\i (00:00:14) roam x -16
+\i (00:00:14) roam x -16
+\i (00:00:14) roam end
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 10.5352 -2.5627
+\i (00:00:17) trapsize 2847
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 15.8314 -0.4555
+\i (00:00:17) trapsize 1424
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 15.8599 -2.2209
+\i (00:00:18) trapsize 2847
+\i (00:00:18) roam start
+\i (00:00:18) roam end
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 17.3406 -4.7266
+\i (00:00:19) trapsize 1424
+\i (00:00:20) roam start
+\i (00:00:20) roam x 16
+\i (00:00:20) roam x 32
+\i (00:00:20) roam x 64
+\i (00:00:20) roam y 16
+\i (00:00:20) roam x 16
+\i (00:00:20) roam x 32
+\i (00:00:20) roam y 16
+\i (00:00:20) roam x 16
+\i (00:00:21) roam x 16
+\i (00:00:21) roam x -32
+\i (00:00:21) roam x -144
+\i (00:00:21) roam y -64
+\i (00:00:21) roam x -32
+\i (00:00:21) roam y -16
+\i (00:00:21) roam x -64
+\i (00:00:21) roam y -32
+\i (00:00:21) roam x -16
+\i (00:00:21) roam y -16
+\i (00:00:21) roam x 16
+\i (00:00:21) roam x 16
+\i (00:00:21) roam x 32
+\i (00:00:21) roam x 16
+\i (00:00:21) roam x 16
+\i (00:00:21) roam y 16
+\i (00:00:21) roam x 16
+\i (00:00:21) roam x 48
+\i (00:00:21) roam x 16
+\i (00:00:21) roam x 16
+\i (00:00:21) roam x 16
+\i (00:00:21) roam x 16
+\i (00:00:21) roam x 32
+\i (00:00:21) roam x 32
+\i (00:00:21) roam x 48
+\i (00:00:21) roam x 16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam x -48
+\i (00:00:22) roam x -224
+\i (00:00:22) roam x -80
+\i (00:00:22) roam x -16
+\i (00:00:22) roam x 16
+\i (00:00:22) roam x 16
+\i (00:00:22) roam x 32
+\i (00:00:22) roam x 32
+\i (00:00:22) roam x 32
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x 16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x 16
+\i (00:00:22) roam x 16
+\i (00:00:22) roam y 16
+\i (00:00:23) roam end
+\i (00:00:23) roam start
+\i (00:00:23) roam x 16
+\i (00:00:24) roam end
+\i (00:00:27) roam start
+\i (00:00:27) roam x 16
+\i (00:00:27) roam x 16
+\i (00:00:27) roam y 16
+\i (00:00:27) roam x 16
+\i (00:00:27) roam x 16
+\i (00:00:27) roam x 16
+\i (00:00:27) roam x 16
+\i (00:00:27) roam x 16
+\i (00:00:27) roam x 16
+\i (00:00:27) roam x 16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam x -16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam y 16
+\i (00:00:28) roam x 16
+\i (00:00:28) roam end
+\i (00:00:38) padeditdb 
+\i (00:00:41) setwindow form.mini
+\i (00:00:41) FORM mini padlist L717DFB25P1AON_PIN 
+\i (00:00:46) FORM mini pad_stack_edit  
+\i (00:02:54) setwindow pcb
+\i (00:02:54) save 
+\i (00:02:55) fillin yes 
+\t (00:02:55) Symbol 'l717dfb25p1aon.psm' created.
+\i (00:02:56) generaledit 
+\i (00:02:59) exit 
+\t (00:02:59)     Journal end - Wed Jan 24 13:35:50 2024
